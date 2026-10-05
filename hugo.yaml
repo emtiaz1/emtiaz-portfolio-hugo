@@ -1,0 +1,41 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "Montakir Emtiaz Ahmed Rafid"
+theme: "loficode"
+
+params:
+  Author:
+    name: "Montakir Emtiaz Ahmed Rafid"
+    image: "/images/profile.jpg"
+  tagline: "Teaching Assistant · Data Analytics · Researcher in AI"
+  description: "Portfolio of Montakir Emtiaz Ahmed Rafid - Teaching Assistant & Researcher in AI"
+  Social:
+    github: "https://github.com/emtiaz2378"
+    email: "emtiaz837@gmail.com"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/#home"
+      weight: 1
+    - name: "About"
+      url: "/#about"
+      weight: 2
+    - name: "Experience"
+      url: "/#experience"
+      weight: 3
+    - name: "Education"
+      url: "/#education"
+      weight: 4
+    - name: "Skills"
+      url: "/#skills"
+      weight: 5
+    - name: "Projects"
+      url: "/#projects"
+      weight: 6
+    - name: "Research"
+      url: "/#research"
+      weight: 7
+    - name: "Contact"
+      url: "/#contact"
+      weight: 8
